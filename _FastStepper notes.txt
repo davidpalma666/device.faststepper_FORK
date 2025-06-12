@@ -1,12 +1,16 @@
 
 
+https://www.altium365.com/viewer/
+
+https://www.wandkey.com/usb-c-pinout-guide-and-features/
 
 
 
 
 
 
-
+	- qual é o MPN do jack??
+	>> tá lá ficha USB C - qual o pinout a utilizar?
 
 
 
@@ -24,22 +28,30 @@
 
 - trocar ficha USB por uma ficha USB-C
 - ficha USB-C fica com suporte para clock incorporado, como existe atualmente no hub. 
+	>> tá lá ficha USB C - qual o pinout a utilizar?
 
 - Isto implicará trocar o jack de clock para um que permita detetar se existe uma ficha ligada ou não.
 - circuito de autatic-select enviado em Altium
+	OK ??
 
 - colocar o novo jack de clock ao lado da ficha USB, para que as ligações externas ao sistema estejam todas do mesmo lado. 
 Podemos dar mais espaço entre as várias fichas visto que a placa cresceu um bocado e temos bastante espaço para distrubuir as fichas do lado direito.
+		OK ??
 
 
-- acrescentar pull-ups opcionais de 10K com um solder jumper nas entradas ENDSTOP, IN0 e IN1
-- adicionar um buffer à entrada do emergency input.
+- acrescentar pull-ups opcionais de 10K com um solder jumper nas entradas ENDSTOP, IN0 e IN1	OK
+
+- adicionar um buffer à entrada do emergency input.		OK
 
 - ficha X1:
-- Adicionar buffers às ligações RX, TX e clock da ficha X1. 
-- Ligar o pino 1 da ficha X1 aos 5V da placa e remover o jack DC que existe atualmente.
-- A DISPONIBILIDADE DE CLCK NA FICHA PASSA POR UM R0
-- remover o jack DC que existe atualmente.
+- Adicionar buffers às ligações RX, TX e clock da ficha X1. 	OK
+
+- Ligar o pino 1 da ficha X1 aos 5V da placa e remover o jack DC que existe atualmente.		OK
+- remover o jack DC que existe atualmente.		OK
+
+- A DISPONIBILIDADE DE CLCK NA FICHA PASSA POR UM R0		OK
+
+
 
 
 - Colocar buracos de fixação nos 4 cantos da placa e dar um espaço maior entre os buracos e as fichas quando possível.
