@@ -1,4 +1,4 @@
-25702035019075734
+25705535328227639
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59409,6 +59409,13 @@ WEIDMUELLER CLAMP CONNECTOR
 5
 5
 FastStepper PCBLib
+AMPHENOL_12401610E4_2A
+
+
+0
+28
+28
+FastStepper PCBLib
 DC_POWER_INPUT_2.1MM
 
 
@@ -59436,6 +59443,13 @@ TEST PAD
 0
 1
 1
+FastStepper PCBLib
+USB_GCT_USB4056-03-A_REVA2
+
+
+0
+28
+28
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters

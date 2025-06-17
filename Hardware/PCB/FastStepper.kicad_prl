@@ -13,7 +13,7 @@
       "shapes": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.6
+      "zones": 0.8600000143051147
     },
     "selection_filter": {
       "dimensions": true,
@@ -45,12 +45,11 @@
       "pads",
       "zones",
       "drc_warnings",
-      "locked_item_shadows",
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffffff5_ffffffff",
-    "zone_display_mode": 1
+    "visible_layers": "ffffffff_ffffffff_fffffff5_ffff7ff7",
+    "zone_display_mode": 0
   },
   "git": {
     "repo_type": "",
