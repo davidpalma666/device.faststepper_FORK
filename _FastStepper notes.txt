@@ -9,6 +9,32 @@ https://www.wandkey.com/usb-c-pinout-guide-and-features/
 
 
 
+
+			
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+*	@18 Junho 2025
+*
+
+>> desenho & colocação do screw terminal
+	https://uk.rs-online.com/web/p/screw-terminals/6142425?gb=s
+	Mfr. Part No.:7689
+	Brand: Keystone
+	de refª pelo Tarquino - parafuso na Horizontal
+		- não daria mais jeito parafuso na vertical? MPN: 7698
+
+>> da reunião hoje com a Neurogears
+	- colocar caps perto da ficha do motor
+	- harp-Clock out tb na ficha X1
+	- furos mecânicos da PCB Grouded
+	
+	
+
+			
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+*	@17 Junho 2025
+*
+
+
 >> qual é o MPN do jack??
 
 >> tá lá ficha USB C - qual o pinout a utilizar?
@@ -32,6 +58,7 @@ https://www.wandkey.com/usb-c-pinout-guide-and-features/
 			Mouser: 10k
 			Farnell: 8k
 			1€
+			!!!!!!! O ESCOLHIDO !!!!!!!!!!!
 		
 		#2
 			Amphenol 10152803-00011LF
@@ -46,6 +73,8 @@ https://www.wandkey.com/usb-c-pinout-guide-and-features/
 			farnell: 2k
 			mouser: 17k
 			0.9€
+			
+		
 			
 			
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 

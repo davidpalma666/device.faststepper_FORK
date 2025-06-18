@@ -2197,6 +2197,12 @@
 		(uuid "5b4467cd-6912-4291-a75e-9b5e7283d5e3")
 	)
 	(junction
+		(at 237.49 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "660fb7e8-5458-4792-b9ac-68740e74f331")
+	)
+	(junction
 		(at 74.93 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2272,7 +2278,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 107.95) (xy 241.3 107.95)
+			(xy 215.9 107.95) (xy 237.49 107.95)
 		)
 		(stroke
 			(width 0)
@@ -2362,7 +2368,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 113.03) (xy 241.3 113.03)
+			(xy 223.52 113.03) (xy 241.3 113.03)
 		)
 		(stroke
 			(width 0)
@@ -2482,7 +2488,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 100.33) (xy 229.87 113.03)
+			(xy 223.52 100.33) (xy 223.52 113.03)
 		)
 		(stroke
 			(width 0)
@@ -2539,6 +2545,16 @@
 			(type default)
 		)
 		(uuid "52c5d3e5-d2ca-4ac2-a8e6-e6a5e505d283")
+	)
+	(wire
+		(pts
+			(xy 237.49 107.95) (xy 241.3 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54b6970e-2be0-4d5e-a2c8-457d50157874")
 	)
 	(wire
 		(pts
@@ -2712,7 +2728,17 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 100.33) (xy 229.87 100.33)
+			(xy 237.49 105.41) (xy 237.49 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95ea6675-aa4f-4d33-b05f-0083ea648e8c")
+	)
+	(wire
+		(pts
+			(xy 218.44 100.33) (xy 223.52 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2960,16 +2986,6 @@
 		)
 		(uuid "f671c477-4de0-4a80-b2d5-fa2ee4a3161c")
 	)
-	(label "CLCK_OUT"
-		(at 222.25 107.95 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7bd57101-5e75-4c4e-8f5a-a9a2af28c004")
-	)
 	(label "CLCK_IN"
 		(at 52.07 107.95 0)
 		(effects
@@ -2998,6 +3014,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CLCK_OUT"
+		(shape input)
+		(at 237.49 105.41 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "18f675d9-d0c4-4a37-8b0a-0132552dbf4d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 225.0705 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -3121,6 +3159,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 63.5 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9863f37c-3820-4189-88fc-c0f1f4478c38")
 		)
@@ -3185,6 +3232,15 @@
 		)
 		(property "Description" "ESD protection diode, 3.3Vrwm, SOD-923"
 			(at 68.58 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 68.58 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3396,6 +3452,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 93.98 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "124b636e-6138-4648-a83f-9e574a515095")
 		)
@@ -3462,6 +3527,15 @@
 		)
 		(property "Description" "ESD protection diode, 3.3Vrwm, SOD-923"
 			(at 53.34 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 53.34 134.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3614,6 +3688,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 44.45 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c5dccbea-0c46-4a8a-9492-09eedd4d7d0a")
 		)
@@ -3714,6 +3797,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 119.38 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9af0bcf4-9cf7-4c99-8b51-d01fa61e35ce")
 		)
@@ -3785,6 +3877,15 @@
 			)
 		)
 		(property "MPN" "PJ-316A-6A"
+			(at 246.38 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
 			(at 246.38 109.22 0)
 			(effects
 				(font
@@ -3893,6 +3994,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 82.55 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4a6ad112-ccca-48a0-abed-e534b2a7f19d")
 		)
@@ -3964,6 +4074,15 @@
 			)
 		)
 		(property "MPN" "74LVC1G157GV"
+			(at 101.6 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
 			(at 101.6 107.95 0)
 			(effects
 				(font
@@ -4045,6 +4164,15 @@
 			)
 		)
 		(property "Description" "Dual-Channel Digital Isolator, 10Mbps 50ns, bidirectional communication, 3V/5V level translation, SOIC-8"
+			(at 203.2 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
 			(at 203.2 105.41 0)
 			(effects
 				(font
@@ -4201,6 +4329,15 @@
 		)
 		(property "Description" "ESD protection diode, 3.3Vrwm, SOD-923"
 			(at 74.93 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 74.93 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4755,6 +4892,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 113.03 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a79f4f74-f5c6-42ce-ad6e-6961bc82d393")
 		)
@@ -4842,6 +4988,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 82.55 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -5261,6 +5416,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 119.38 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "01944a9c-54ae-43cb-bd01-af2ef228171a")
 		)
@@ -5350,6 +5514,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 222.25 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1e164db2-97e0-42e7-bfb1-bbf9be2a43dc")
 		)
@@ -5436,6 +5609,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 176.53 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)

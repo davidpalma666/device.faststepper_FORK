@@ -1,4 +1,4 @@
-25705535328227639
+25712539615046123
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59437,9 +59437,37 @@ OSCILLATOR_3.2X2.5
 4
 4
 FastStepper PCBLib
+Pin_D4mm_hole2mm
+Pin_D4mm_hole2mm
+solder Pin_ with flat fork
+0
+1
+1
+FastStepper PCBLib
 TP11R
 TEST PAD
 
+0
+1
+1
+FastStepper PCBLib
+Terminal_Block_Keystone_7689_1x01_Horizontal_Screw
+
+THT single screw terminal block Connect
+0
+4
+1
+FastStepper PCBLib
+Terminal_Block_Keystone_7698_1x01_Vertical_Screw
+
+THT single screw terminal block Connect
+0
+4
+1
+FastStepper PCBLib
+Terminal_Block_Keystone_8734_1x01_Horizontal_Screw
+
+THT single screw terminal block Connect
 0
 1
 1

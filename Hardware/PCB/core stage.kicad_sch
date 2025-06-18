@@ -4319,6 +4319,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 135.89 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "95cf2b71-b0a9-40bf-b9a8-d9063db404d6")
 		)
@@ -4407,6 +4416,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 186.69 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -4852,6 +4870,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 135.89 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "631fa9ba-a8db-44df-ae1b-a857af80d721")
 		)
@@ -5003,6 +5030,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 146.05 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -5401,6 +5437,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 107.95 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "de9f79bd-8923-457a-be02-e3ab2ca487ea")
 		)
@@ -5552,6 +5597,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 92.71 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -5780,6 +5834,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 95.25 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fb99849a-d2ca-4090-ac43-e717de070553")
 		)
@@ -5867,6 +5930,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 102.87 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -5960,6 +6032,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 163.83 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0f869c64-56b4-4faa-ac6f-2b3540272b4f")
 		)
@@ -6022,6 +6103,15 @@
 		)
 		(property "Description" ""
 			(at 107.95 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 107.95 91.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6117,6 +6207,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 163.83 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "94390e35-5277-4bb6-84d7-03d06b019b91")
 		)
@@ -6202,6 +6301,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 85.09 25.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -6343,6 +6451,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 107.95 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d4e0dbc5-9b02-439c-8ddb-76eb59fbf613")
 		)
@@ -6428,6 +6545,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 201.93 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -6519,6 +6645,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 44.45 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -6809,6 +6944,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 173.99 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "4e04a2e3-9e29-4f7f-8069-1fcf08e1578b")
 		)
@@ -6883,6 +7027,15 @@
 		)
 		(property "Description" ""
 			(at 107.95 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 107.95 109.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6977,6 +7130,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 107.95 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fc05175a-c3a7-4191-826b-644946bae11f")
 		)
@@ -7046,6 +7208,15 @@
 		)
 		(property "Description" ""
 			(at 184.15 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 184.15 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7138,6 +7309,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 196.85 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -7496,6 +7676,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 102.87 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "15735fa1-5be1-4617-aebf-37970a174396")
 		)
@@ -7584,6 +7773,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 191.77 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -7744,6 +7942,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPSPN" ""
+			(at 196.85 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b390de6d-37f9-4d91-878a-da05648fafe0")
 		)
@@ -7830,6 +8037,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 196.85 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
