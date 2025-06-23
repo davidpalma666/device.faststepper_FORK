@@ -2057,6 +2057,12 @@
 		(uuid "ae3a5840-4f33-4059-860f-a1ef3629d71b")
 	)
 	(junction
+		(at 86.36 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "05cfcc35-5bf1-42dc-b25a-45827a195cc5")
+	)
+	(junction
 		(at 82.55 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2295,6 +2301,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e656c4eb-97bd-44f5-aa76-08729b2ec8c6")
+	)
+	(junction
+		(at 100.33 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f16cd1e0-25d5-4309-9f71-48ceb6da51b1")
 	)
 	(wire
 		(pts
@@ -2598,7 +2610,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 21.59) (xy 100.33 24.13)
+			(xy 100.33 17.78) (xy 100.33 19.05)
 		)
 		(stroke
 			(width 0)
@@ -2635,6 +2647,16 @@
 			(type solid)
 		)
 		(uuid "1d267154-37b1-41dc-a450-50da22080476")
+	)
+	(wire
+		(pts
+			(xy 100.33 19.05) (xy 100.33 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d80ae91-02ab-4124-847b-70df8b89ce09")
 	)
 	(wire
 		(pts
@@ -2825,6 +2847,16 @@
 			(type solid)
 		)
 		(uuid "359c6163-743e-4e24-adc9-7ab715a2cbf8")
+	)
+	(wire
+		(pts
+			(xy 81.28 19.05) (xy 86.36 19.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35f00ca8-1367-4b56-9805-25cc0ac39627")
 	)
 	(wire
 		(pts
@@ -3025,6 +3057,16 @@
 			(type default)
 		)
 		(uuid "503648b4-c680-48a9-b0f6-52a5303b0c9c")
+	)
+	(wire
+		(pts
+			(xy 86.36 19.05) (xy 100.33 19.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52c86e75-75ce-414c-b9bf-1ee873ae554e")
 	)
 	(wire
 		(pts
@@ -4866,6 +4908,28 @@
 			)
 		)
 	)
+	(global_label "CLK_2u"
+		(shape input)
+		(at 124.46 267.97 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.9957 0.9957)
+			)
+			(justify left)
+		)
+		(uuid "8b84122a-e4e3-462b-afd7-77e57ee72a94")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 132.2057 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "HARP_H2_RX"
 		(shape input)
 		(at 113.03 219.71 0)
@@ -4879,28 +4943,6 @@
 		(uuid "8fcf8795-c64e-420f-9686-027da37e5780")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 124.7111 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "HARP_H2_CLOCK_OUT"
-		(shape input)
-		(at 124.46 267.97 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.9957 0.9957)
-			)
-			(justify left)
-		)
-		(uuid "93c965c4-3a90-465e-80ea-9fdd98e34719")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 142.6367 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5724,6 +5766,81 @@
 			(project "FastStepper"
 				(path "/7345d9dc-7969-46b6-9229-988073b8033c/d7800fff-6547-4760-99b1-6b8914c1f1f6"
 					(reference "X10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDD")
+		(at 86.36 26.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0b914950-35c8-4d5c-9c2e-71b41954eb76")
+		(property "Reference" "#GND085"
+			(at 86.36 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 89.154 26.924 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 86.36 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.36 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 86.36 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGKEYPN" ""
+			(at 82.55 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "91a69526-ae32-4fd9-8af5-956897ab209a")
+		)
+		(instances
+			(project "FastStepper"
+				(path "/7345d9dc-7969-46b6-9229-988073b8033c/d7800fff-6547-4760-99b1-6b8914c1f1f6"
+					(reference "#GND085")
 					(unit 1)
 				)
 			)
@@ -12218,6 +12335,104 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 86.36 22.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a19b0de6-05fd-4955-b42b-ec553e0e9261")
+		(property "Reference" "C39"
+			(at 90.17 20.955 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7uF"
+			(at 90.17 24.765 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 86.36 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.36 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 86.36 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1608X6S1C475K080AC"
+			(at 86.36 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "OEPS" "OEPS010018"
+			(at 86.36 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 86.36 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ae242edc-5944-432e-80fc-b921b276cfbb")
+		)
+		(pin "2"
+			(uuid "92a4a6fe-5d02-4719-a8c7-d1a54121ae58")
+		)
+		(instances
+			(project "FastStepper"
+				(path "/7345d9dc-7969-46b6-9229-988073b8033c/d7800fff-6547-4760-99b1-6b8914c1f1f6"
+					(reference "C39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 302.26 21.59 0)
 		(unit 1)
@@ -12285,17 +12500,16 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 100.33 21.59 0)
+		(at 100.33 17.78 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a339cb95-363d-4671-9515-cf48b6897050")
 		(property "Reference" "#P+11"
-			(at 100.33 21.59 0)
+			(at 100.33 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12304,7 +12518,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 100.33 16.51 0)
+			(at 105.41 15.748 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -12312,7 +12526,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 100.33 21.59 0)
+			(at 100.33 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12321,7 +12535,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 21.59 0)
+			(at 100.33 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12330,7 +12544,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 100.33 21.59 0)
+			(at 100.33 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14699,6 +14913,81 @@
 	)
 	(symbol
 		(lib_id "power:GNDD")
+		(at 81.28 26.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ea18ea3a-e02f-42c5-aada-5a88cf145891")
+		(property "Reference" "#GND083"
+			(at 81.28 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 76.962 29.21 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 81.28 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 81.28 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DIGKEYPN" ""
+			(at 77.47 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dd058445-82fc-4e0a-afac-692392db5a3f")
+		)
+		(instances
+			(project "FastStepper"
+				(path "/7345d9dc-7969-46b6-9229-988073b8033c/d7800fff-6547-4760-99b1-6b8914c1f1f6"
+					(reference "#GND083")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDD")
 		(at 49.53 181.61 0)
 		(mirror y)
 		(unit 1)
@@ -15102,6 +15391,105 @@
 			(project "FastStepper"
 				(path "/7345d9dc-7969-46b6-9229-988073b8033c/d7800fff-6547-4760-99b1-6b8914c1f1f6"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 81.28 22.86 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f7a1a143-8236-4052-b422-30a3f59a95ea")
+		(property "Reference" "C38"
+			(at 77.47 20.955 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100nF"
+			(at 77.47 24.765 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 81.28 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 81.28 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1005X7R1H104K050BB"
+			(at 81.28 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "OEPS" "OEPS010004"
+			(at 81.28 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 81.28 22.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "08e6201d-9ed4-47af-8d90-4277774fd643")
+		)
+		(pin "1"
+			(uuid "1ed8d90f-58a2-492b-b3e3-e15766084a4a")
+		)
+		(instances
+			(project "FastStepper"
+				(path "/7345d9dc-7969-46b6-9229-988073b8033c/d7800fff-6547-4760-99b1-6b8914c1f1f6"
+					(reference "C38")
 					(unit 1)
 				)
 			)

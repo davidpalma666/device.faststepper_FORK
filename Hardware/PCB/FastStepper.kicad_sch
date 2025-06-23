@@ -4934,6 +4934,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 182.88) (xy 80.01 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72663440-4faf-4cbd-9dd9-2d65fb9b6248")
+	)
+	(wire
+		(pts
 			(xy 29.21 142.24) (xy 29.21 144.78)
 		)
 		(stroke
@@ -10624,6 +10634,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDD")
+		(at 80.01 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6b017d0d-9444-4cb4-b035-83bec89dac1d")
+		(property "Reference" "#GND082"
+			(at 80.01 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 80.01 187.96 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 80.01 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 80.01 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 80.01 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a872613c-cb90-45fc-846c-e69629262e29")
+		)
+		(instances
+			(project "FastStepper"
+				(path "/7345d9dc-7969-46b6-9229-988073b8033c"
+					(reference "#GND082")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 151.13 36.83 180)
 		(unit 1)
@@ -11168,6 +11244,82 @@
 			(project "FastStepper"
 				(path "/7345d9dc-7969-46b6-9229-988073b8033c"
 					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 80.01 175.26 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "79d2b0c6-3c2c-4b67-af46-e3a6f8420ab9")
+		(property "Reference" "J4"
+			(at 78.74 169.672 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Keystone 8734"
+			(at 78.74 172.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "FastStepper PCBLib:Terminal_Block_Keystone_8734_1x01_Horizontal_Screw"
+			(at 80.01 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 80.01 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 80.01 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OEPSPN" ""
+			(at 80.01 175.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "77e615ce-8866-40c5-9c8b-5659595fa9ca")
+		)
+		(instances
+			(project "FastStepper"
+				(path "/7345d9dc-7969-46b6-9229-988073b8033c"
+					(reference "J4")
 					(unit 1)
 				)
 			)
