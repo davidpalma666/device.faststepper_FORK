@@ -4309,17 +4309,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS020037"
-			(at 135.89 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020037"
 			(at 135.89 43.18 0)
 			(effects
 				(font
@@ -4399,7 +4389,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 186.69 140.97 0)
 			(effects
 				(font
@@ -4409,17 +4399,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 186.69 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 186.69 140.97 0)
 			(effects
 				(font
@@ -4860,17 +4840,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS030005"
-			(at 135.89 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS030005"
 			(at 135.89 31.75 90)
 			(effects
 				(font
@@ -5013,7 +4983,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ATXMEGA32A4U-AUR"
+		(property "MPN" "ATXMEGA32A4U-A"
 			(at 146.05 114.3 0)
 			(effects
 				(font
@@ -5023,17 +4993,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS080012"
-			(at 146.05 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080012"
 			(at 146.05 114.3 0)
 			(effects
 				(font
@@ -5388,7 +5348,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "42e7bcf3-9a46-4bfe-9a26-2fc08f4ea846")
@@ -5590,17 +5550,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "DNI"
-			(at 92.71 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "n.a."
 			(at 92.71 34.29 0)
 			(effects
 				(font
@@ -5814,7 +5764,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 95.25 163.83 0)
 			(effects
 				(font
@@ -5824,17 +5774,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 95.25 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 95.25 163.83 0)
 			(effects
 				(font
@@ -5923,17 +5863,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "DNI"
-			(at 102.87 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "n.a."
 			(at 102.87 48.26 0)
 			(effects
 				(font
@@ -6022,17 +5952,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010011"
-			(at 163.83 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010011"
 			(at 163.83 46.99 0)
 			(effects
 				(font
@@ -6062,7 +5982,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "7874acdb-643f-45e2-93c0-2d00ca93b985")
@@ -6187,7 +6107,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 163.83 27.94 0)
 			(effects
 				(font
@@ -6197,17 +6117,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 163.83 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 163.83 27.94 0)
 			(effects
 				(font
@@ -6294,17 +6204,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "DNI"
-			(at 85.09 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "n.a."
 			(at 85.09 25.4 90)
 			(effects
 				(font
@@ -6401,7 +6301,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6528,7 +6428,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 201.93 140.97 0)
 			(effects
 				(font
@@ -6538,17 +6438,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 201.93 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 201.93 140.97 0)
 			(effects
 				(font
@@ -6638,17 +6528,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS040003"
-			(at 44.45 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS040003"
 			(at 44.45 29.21 90)
 			(effects
 				(font
@@ -6924,7 +6804,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "609-3210-ND"
+		(property "MPN" "PR20203VBDN"
 			(at 173.99 38.1 0)
 			(effects
 				(font
@@ -6934,17 +6814,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS070015"
-			(at 173.99 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070124"
 			(at 173.99 38.1 0)
 			(effects
 				(font
@@ -6986,7 +6856,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a975d56f-1c21-447f-9da4-4a2b09ef7062")
@@ -7120,17 +6990,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS080018"
-			(at 107.95 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080018"
 			(at 107.95 165.1 0)
 			(effects
 				(font
@@ -7166,7 +7026,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7292,7 +7152,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 196.85 140.97 0)
 			(effects
 				(font
@@ -7302,17 +7162,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 196.85 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 196.85 140.97 0)
 			(effects
 				(font
@@ -7666,17 +7516,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "DNI"
-			(at 102.87 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "n.a."
 			(at 102.87 33.02 0)
 			(effects
 				(font
@@ -7756,7 +7596,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 191.77 140.97 0)
 			(effects
 				(font
@@ -7766,17 +7606,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 191.77 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 191.77 140.97 0)
 			(effects
 				(font
@@ -7932,17 +7762,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS040003"
-			(at 196.85 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS040003"
 			(at 196.85 109.22 0)
 			(effects
 				(font
@@ -8020,7 +7840,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 196.85 120.65 0)
 			(effects
 				(font
@@ -8030,17 +7850,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 196.85 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 196.85 120.65 0)
 			(effects
 				(font

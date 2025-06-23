@@ -5096,7 +5096,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 372.11 138.43 0)
 			(effects
 				(font
@@ -5106,17 +5106,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 372.11 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 349.25 146.05 0)
 			(effects
 				(font
@@ -5403,16 +5393,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS070035"
-			(at 41.275 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070035"
 			(at 41.91 176.53 0)
 			(effects
 				(font
@@ -5627,17 +5608,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CGA2B3X7R1V153K050BB"
-			(at 128.27 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPS" "OEPS010023"
+		(property "MPN" "TBD 15nF 5%"
 			(at 128.27 185.42 0)
 			(effects
 				(font
@@ -5735,16 +5706,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS070035"
-			(at 379.095 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070035"
 			(at 378.46 163.83 0)
 			(effects
 				(font
@@ -5967,7 +5929,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 290.83 153.67 0)
 			(effects
 				(font
@@ -5977,17 +5939,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 290.83 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 290.83 153.67 90)
 			(effects
 				(font
@@ -6074,17 +6026,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS080038"
-			(at 100.33 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080038"
 			(at 100.33 176.53 0)
 			(effects
 				(font
@@ -6170,16 +6112,6 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 102.87 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 102.87 80.01 0)
 			(effects
@@ -6190,17 +6122,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 102.87 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 102.87 80.01 0)
 			(effects
 				(font
@@ -6286,7 +6208,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 88.9 97.79 0)
 			(effects
 				(font
@@ -6296,17 +6218,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 88.9 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 88.9 97.79 90)
 			(effects
 				(font
@@ -6869,16 +6781,6 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 80.01 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 80.01 107.95 0)
 			(effects
@@ -6889,17 +6791,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 80.01 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 80.01 107.95 0)
 			(effects
 				(font
@@ -6986,16 +6878,6 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 302.26 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 302.26 196.85 0)
 			(effects
@@ -7006,17 +6888,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 302.26 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 302.26 196.85 0)
 			(effects
 				(font
@@ -7102,16 +6974,6 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 302.26 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 302.26 31.75 0)
 			(effects
@@ -7122,17 +6984,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 302.26 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 302.26 31.75 0)
 			(effects
 				(font
@@ -7350,16 +7202,6 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 80.01 140.97 0)
 			(effects
@@ -7370,17 +7212,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 80.01 140.97 0)
 			(effects
 				(font
@@ -7600,7 +7432,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 105.41 95.25 0)
 			(effects
 				(font
@@ -7610,17 +7442,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 105.41 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 118.11 87.63 0)
 			(effects
 				(font
@@ -7709,17 +7531,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS070041"
-			(at 44.45 64.1349 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070041"
 			(at 46.99 59.69 0)
 			(effects
 				(font
@@ -7805,16 +7617,6 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 347.218 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 347.218 231.14 0)
 			(effects
@@ -7825,17 +7627,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 347.218 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 347.218 231.14 0)
 			(effects
 				(font
@@ -7921,7 +7713,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 120.65 176.53 0)
 			(effects
 				(font
@@ -7931,17 +7723,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 120.65 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 120.65 176.53 90)
 			(effects
 				(font
@@ -8294,7 +8076,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 290.83 24.13 0)
 			(effects
 				(font
@@ -8304,17 +8086,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 290.83 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 290.83 24.13 90)
 			(effects
 				(font
@@ -8963,7 +8735,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 293.37 120.65 0)
 			(effects
 				(font
@@ -8973,17 +8745,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 293.37 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 293.37 120.65 90)
 			(effects
 				(font
@@ -9071,16 +8833,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS070035"
-			(at 379.095 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070020"
 			(at 378.46 233.68 0)
 			(effects
 				(font
@@ -9160,7 +8913,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 86.36 163.83 0)
 			(effects
 				(font
@@ -9170,17 +8923,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 86.36 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 106.68 166.37 90)
 			(effects
 				(font
@@ -9267,17 +9010,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS020048"
-			(at 78.74 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020048"
 			(at 78.74 173.99 90)
 			(effects
 				(font
@@ -9356,7 +9089,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 118.11 39.37 0)
 			(effects
 				(font
@@ -9366,17 +9099,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 118.11 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 118.11 39.37 0)
 			(effects
 				(font
@@ -9618,17 +9341,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS020015"
-			(at 82.55 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020015"
 			(at 82.55 181.61 0)
 			(effects
 				(font
@@ -9708,7 +9421,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 284.48 67.31 0)
 			(effects
 				(font
@@ -9718,17 +9431,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 284.48 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 284.48 67.31 0)
 			(effects
 				(font
@@ -9805,16 +9508,6 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 302.26 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 302.26 59.69 0)
 			(effects
@@ -9825,17 +9518,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 302.26 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 302.26 59.69 0)
 			(effects
 				(font
@@ -9921,16 +9604,6 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 100.33 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 100.33 31.75 0)
 			(effects
@@ -9941,17 +9614,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 100.33 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 100.33 31.75 0)
 			(effects
 				(font
@@ -10036,7 +9699,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TBD"
+		(property "MPN" "RC0402JR-070RL"
 			(at 85.09 267.97 0)
 			(effects
 				(font
@@ -10046,17 +9709,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "TBD"
-			(at 85.09 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020001"
 			(at 85.09 267.97 90)
 			(effects
 				(font
@@ -10135,17 +9788,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CGA2B3X7R1V153K050BB"
-			(at 143.51 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPS" "OEPS010023"
+		(property "MPN" "TBD 15nF 5%"
 			(at 143.51 185.42 0)
 			(effects
 				(font
@@ -10243,17 +9886,7 @@
 				(justify left)
 			)
 		)
-		(property "OEPS" "OEPS070041"
-			(at 49.53 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070041"
 			(at 49.53 116.84 0)
 			(effects
 				(font
@@ -10409,7 +10042,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 307.34 31.75 0)
 			(effects
 				(font
@@ -10419,17 +10052,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 307.34 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 284.48 39.37 0)
 			(effects
 				(font
@@ -10584,17 +10207,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS070037"
-			(at 45.72 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070037"
 			(at 45.72 223.52 0)
 			(effects
 				(font
@@ -10681,7 +10294,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 93.98 257.81 0)
 			(effects
 				(font
@@ -10691,17 +10304,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 93.98 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 93.98 257.81 90)
 			(effects
 				(font
@@ -10845,7 +10448,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 88.9 130.81 0)
 			(effects
 				(font
@@ -10855,17 +10458,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 88.9 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 88.9 130.81 90)
 			(effects
 				(font
@@ -10955,17 +10548,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS070041"
-			(at 378.46 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070041"
 			(at 378.46 110.49 0)
 			(effects
 				(font
@@ -11332,7 +10915,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 379.73 82.55 0)
 			(effects
 				(font
@@ -11342,17 +10925,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 379.73 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 356.87 90.17 0)
 			(effects
 				(font
@@ -11574,7 +11147,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 366.268 223.52 0)
 			(effects
 				(font
@@ -11584,17 +11157,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 366.268 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 366.268 223.52 0)
 			(effects
 				(font
@@ -11815,7 +11378,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 293.37 186.69 0)
 			(effects
 				(font
@@ -11825,17 +11388,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 293.37 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 293.37 186.69 90)
 			(effects
 				(font
@@ -11913,16 +11466,6 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 302.26 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 302.26 97.79 0)
 			(effects
@@ -11933,17 +11476,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 302.26 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 302.26 97.79 0)
 			(effects
 				(font
@@ -12029,7 +11562,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 99.06 209.55 0)
 			(effects
 				(font
@@ -12039,17 +11572,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 99.06 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 99.06 209.55 90)
 			(effects
 				(font
@@ -12192,7 +11715,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 290.83 52.07 0)
 			(effects
 				(font
@@ -12202,17 +11725,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 290.83 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 290.83 52.07 90)
 			(effects
 				(font
@@ -12290,7 +11803,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 293.37 87.63 0)
 			(effects
 				(font
@@ -12300,17 +11813,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 293.37 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 293.37 87.63 90)
 			(effects
 				(font
@@ -12398,17 +11901,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010018"
-			(at 86.36 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010018"
 			(at 86.36 22.86 0)
 			(effects
 				(font
@@ -12617,16 +12110,6 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 302.26 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 302.26 161.29 0)
 			(effects
@@ -12637,17 +12120,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 302.26 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 302.26 161.29 0)
 			(effects
 				(font
@@ -12801,16 +12274,6 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 90.17 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 90.17 219.71 0)
 			(effects
@@ -12821,17 +12284,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 90.17 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 90.17 219.71 0)
 			(effects
 				(font
@@ -12920,7 +12373,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 351.028 217.17 0)
 			(effects
 				(font
@@ -12930,17 +12383,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 351.028 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 351.028 217.17 0)
 			(effects
 				(font
@@ -13149,16 +12592,6 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 100.33 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 100.33 54.61 0)
 			(effects
@@ -13169,17 +12602,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 100.33 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 100.33 54.61 0)
 			(effects
 				(font
@@ -13710,7 +13133,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 104.14 232.41 0)
 			(effects
 				(font
@@ -13720,17 +13143,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 104.14 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 104.14 232.41 90)
 			(effects
 				(font
@@ -13951,16 +13364,6 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 102.87 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 102.87 267.97 0)
 			(effects
@@ -13971,17 +13374,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 102.87 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 102.87 267.97 0)
 			(effects
 				(font
@@ -14267,7 +13660,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 135.89 176.53 0)
 			(effects
 				(font
@@ -14277,17 +13670,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 135.89 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 135.89 176.53 90)
 			(effects
 				(font
@@ -14498,16 +13881,6 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 113.03 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 113.03 242.57 0)
 			(effects
@@ -14518,17 +13891,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 113.03 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 113.03 242.57 0)
 			(effects
 				(font
@@ -14615,16 +13978,6 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 302.26 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 302.26 130.81 0)
 			(effects
@@ -14635,17 +13988,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 302.26 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 302.26 130.81 0)
 			(effects
 				(font
@@ -14867,7 +14210,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 307.34 161.29 0)
 			(effects
 				(font
@@ -14877,17 +14220,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 307.34 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 284.48 168.91 0)
 			(effects
 				(font
@@ -15118,7 +14451,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 95.25 54.61 0)
 			(effects
 				(font
@@ -15128,17 +14461,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 95.25 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 118.11 62.23 0)
 			(effects
 				(font
@@ -15218,7 +14541,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 374.65 82.55 0)
 			(effects
 				(font
@@ -15228,17 +14551,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 374.65 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 351.79 90.17 0)
 			(effects
 				(font
@@ -15451,7 +14764,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 81.28 22.86 0)
 			(effects
 				(font
@@ -15461,17 +14774,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 81.28 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 81.28 22.86 90)
 			(effects
 				(font

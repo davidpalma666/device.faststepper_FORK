@@ -255,7 +255,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -268,20 +268,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "0c728923-fa76-476e-ad91-c79fe52a8a0d")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -495,7 +482,7 @@
 				)
 			)
 		)
-		(property "MPN" "TBD"
+		(property "MPN" "ERJ-2RKF1003X"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -508,20 +495,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS??"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "382063d4-4228-42d6-abaf-79633c1cf5ee")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020019"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -722,7 +696,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -735,20 +709,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "9c640efd-9bb0-4ca1-97a3-a81b26cbe63b")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -962,7 +923,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -975,20 +936,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "e19bd782-d019-4954-9867-17e151e2223c")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1202,7 +1150,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -1215,20 +1163,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "efe1b508-8318-43c9-9e98-1f2e0e83c696")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1446,20 +1381,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS070035"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "e0727326-4f84-4ddf-8130-caf82642616b")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070020"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1639,7 +1561,7 @@
 				)
 			)
 		)
-		(property "MPN" "?!?!? a case??"
+		(property "MPN" "CL10A105KA8NNNC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -1652,20 +1574,7 @@
 				)
 			)
 		)
-		(property "OEPS" "TBD ??"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "2ee776d4-d449-46ed-89e8-80f64ed43948")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010022"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1879,7 +1788,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -1892,20 +1801,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "cb668fe6-556f-40fd-99cb-f913993afcb9")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2119,7 +2015,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -2132,20 +2028,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "f15f147e-4555-478b-8b1b-433214c78745")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2359,7 +2242,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -2372,20 +2255,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "093cd728-87f7-4c6a-bf32-5133638a99bc")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2600,20 +2470,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080018"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "79a7f52a-e3e3-4cac-a40e-61fd9e5fa7ae")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080018"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2802,6 +2659,19 @@
 				)
 			)
 		)
+		(property "MPN" "TBD 8734"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f5d82e5e-ff55-4317-aa4f-820d524746dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/e4d480e0-119d-467d-9dd4-b996bb1a8df1")
 		(sheetname "/")
@@ -2967,19 +2837,6 @@
 				)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "98f5d062-b2f3-4c1b-93f0-9c1d737b589d")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 0 0 180)
 			(unlocked yes)
@@ -2993,20 +2850,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "3ad58786-14fc-4b6a-add4-9be75dc6d80b")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3257,19 +3101,6 @@
 				)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "ea161c08-9a54-4256-bb3c-4c4092cf6ffe")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 0 0 0)
 			(unlocked yes)
@@ -3283,20 +3114,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "2e058902-6725-4712-ad03-2eac9e41bbc5")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3545,7 +3363,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -3558,20 +3376,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "5f3d4ae2-8917-406d-abe5-391b6b9cbc9a")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3785,7 +3590,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.SilkS")
@@ -3798,20 +3603,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.SilkS")
-			(hide yes)
-			(uuid "2760799a-164c-447e-b0af-860a1fd62a13")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4027,7 +3819,7 @@
 				)
 			)
 		)
-		(property "MPN" "74LVC1G157GV"
+		(property "MPN" "TBD 74LVC1G157GV"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -4297,64 +4089,25 @@
 				)
 			)
 		)
-		(property "PARTREV" "N/A"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "c56f927d-8999-407e-8a52-4fcd2f33dc45")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "3d7894a2-44d6-4ad7-8219-a56abbcf9ef8")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "1.0 mm"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "322f7e71-ca6b-4c72-895e-c45bbfe04858")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "MANUFACTURER" "Murata"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "2d7d5afa-46ab-44e2-adba-11c0d66c0818")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
 		(property "OEPSPN" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b0c8da0c-1469-4027-9e57-d304d15a05ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TBD DLW21HN900SQ2L"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1fa4012b-496b-4ea1-81ed-3e8dd4e29fa8")
 			(effects
 				(font
 					(size 1 1)
@@ -4637,7 +4390,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -4650,20 +4403,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "65714a83-b7d2-441c-98bb-2762481613a5")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4877,7 +4617,7 @@
 				)
 			)
 		)
-		(property "MPN" "tbd"
+		(property "MPN" "ERJ-2RKF1003X"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4890,20 +4630,7 @@
 				)
 			)
 		)
-		(property "OEPS" "tbd"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1335b4f1-1c63-4589-aa01-8632ea8a7936")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020019"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5121,20 +4848,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS070035"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "b5f93e7f-44b2-4ea7-a847-13e6b764d53b")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070035"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5322,6 +5036,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "61fc7deb-d80a-4c8f-943b-7762aabb04ec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TBD ESD9B3"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "135cb529-fd22-4aaa-9ab7-f2dbf81f22c4")
 			(effects
 				(font
 					(size 1 1)
@@ -5684,6 +5411,19 @@
 				)
 			)
 		)
+		(property "MPN" "TBD ESD9B3"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0ab1d529-bb0e-452d-8f3b-01ee2f0e201d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "D*SOD?923*")
 		(path "/aad6949d-d213-4fed-8e5b-4ea13cc4c883/1696cbcd-5621-4036-9016-233566cbf307")
 		(sheetname "/Clock stage/")
@@ -6026,19 +5766,6 @@
 				)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "628ba91e-af5d-4405-a547-690b2c320cb1")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 0 0 0)
 			(unlocked yes)
@@ -6052,20 +5779,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "6455b5c5-4436-4778-b6de-6d9a9f4c3eef")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6314,12 +6028,12 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Texas Instruments"
+		(property "OEPSPN" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "09a9d00f-ad1f-43a4-baba-88b3019cb71a")
+			(uuid "938b2213-f2fe-41e2-b07a-1081b479114d")
 			(effects
 				(font
 					(size 1 1)
@@ -6327,12 +6041,12 @@
 				)
 			)
 		)
-		(property "OEPSPN" ""
+		(property "MPN" "TBD THVD1450D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "938b2213-f2fe-41e2-b07a-1081b479114d")
+			(uuid "61173db0-905a-49ff-88c1-fe14922db2e0")
 			(effects
 				(font
 					(size 1 1)
@@ -6713,7 +6427,7 @@
 				)
 			)
 		)
-		(property "MPN" "609-3210-ND"
+		(property "MPN" "PR20203VBDN"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -6726,20 +6440,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS070015"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "70ab1719-2773-4c0b-80ad-35c0ad5a1a40")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070124"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7359,7 +7060,7 @@
 		(path "/028c691a-8325-4757-adb7-0d190022b2ed/42e7bcf3-9a46-4bfe-9a26-2fc08f4ea846")
 		(sheetname "/core stage/")
 		(sheetfile "core stage.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -7464,6 +7165,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "de5ad664-4339-4dfd-980e-ee20f1e30201")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TBD q MPN? "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "38f9f2f7-82ab-4db2-be2c-a46d8a53ef9c")
 			(effects
 				(font
 					(size 1 1)
@@ -7845,19 +7559,6 @@
 				)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "58be1c74-2776-4aa4-b07f-884102bb8c85")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 0 0 0)
 			(unlocked yes)
@@ -7871,20 +7572,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "829ac4b1-a6be-47e8-8a8f-5f3b6bc8ddc7")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8133,7 +7821,7 @@
 				)
 			)
 		)
-		(property "MPN" "TBD"
+		(property "MPN" "ERJ-2RKF1001X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -8146,20 +7834,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS??"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "04f69d63-20f1-4d27-bada-b2897dc0e884")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020006"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8644,19 +8319,6 @@
 				)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "fbc38762-b28c-4e51-bd51-5a66a4c13e5d")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 0 0 180)
 			(unlocked yes)
@@ -8670,20 +8332,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "08927258-4e0e-4fac-94cf-292e320f448d")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8946,6 +8595,19 @@
 				)
 			)
 		)
+		(property "MPN" "TBD 8734"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7a468bc0-5f3c-45e4-aaf2-9da37505a940")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/79d2b0c6-3c2c-4b67-af46-e3a6f8420ab9")
 		(sheetname "/")
@@ -9111,19 +8773,6 @@
 				)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "933b0d36-a655-46bc-9937-27b7595a53d5")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 0 0 270)
 			(unlocked yes)
@@ -9137,20 +8786,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "72f7fc95-e36d-4ad8-bbff-663a2d4513c4")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9410,7 +9046,7 @@
 				)
 			)
 		)
-		(property "MPN" "ATXMEGA32A4U-AUR"
+		(property "MPN" "ATXMEGA32A4U-A"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -9423,20 +9059,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080012"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "905c5cee-8e70-40c5-88a1-d801a80a02a7")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080012"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10302,7 +9925,7 @@
 				)
 			)
 		)
-		(property "MPN" "PJ-316A-6A"
+		(property "MPN" "TBD AliExpress? PJ-316A-6A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10731,7 +10354,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -10744,20 +10367,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "0512d448-9353-4540-ba0d-cc73ea8c7c4e")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10990,7 +10600,7 @@
 		(path "/ac8682fb-de10-408d-bc78-2859866bb153")
 		(sheetname "/")
 		(sheetfile "FastStepper.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -11080,19 +10690,6 @@
 				)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "06973a92-d05c-449e-b050-7d6712690ea0")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 0 0 270)
 			(unlocked yes)
@@ -11106,20 +10703,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "85eeefa5-f15b-4cd3-9381-b6c1a5a027e8")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11383,20 +10967,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080013"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "74e6a513-cf78-440a-9ff7-0ef0c94967c1")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080093"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11911,7 +11482,7 @@
 		(path "/8af90596-8c85-435a-a74c-4468e70cad69")
 		(sheetname "/")
 		(sheetfile "FastStepper.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -12019,7 +11590,7 @@
 		(path "/99944a20-feb2-46dc-ae0b-d7d8826ca774")
 		(sheetname "/")
 		(sheetfile "FastStepper.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -12120,20 +11691,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS040003"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "dd6c4e05-761f-4c21-b383-767282ddfa29")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS040003"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12486,7 +12044,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -12499,20 +12057,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "9963ba3a-f3b4-4fbf-9aae-3086cada50bb")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12728,19 +12273,6 @@
 				)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "d89c6965-0526-47c5-a00f-96ef2016a703")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 0 0 0)
 			(unlocked yes)
@@ -12754,20 +12286,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "34bb7207-1b32-43d4-8994-42aa0c1a0ea1")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13020,6 +12539,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "300e94f9-4efc-456a-b93f-abd4f039b6e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TBD DLW21HN900SQ2L"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc405cf5-9c6a-485e-85de-c4e501a5d0ec")
 			(effects
 				(font
 					(size 1 1)
@@ -13302,7 +12834,7 @@
 				)
 			)
 		)
-		(property "MPN" "tbd"
+		(property "MPN" "ERJ-2RKF1001X"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13315,20 +12847,7 @@
 				)
 			)
 		)
-		(property "OEPS" "tbd"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "646a50e0-1421-48fd-9d30-b2613bf1e0b4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020006"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13529,7 +13048,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -13542,20 +13061,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "f20eb793-d023-4c80-9f25-2d2a8ba7c116")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13777,6 +13283,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b8b07134-73de-4c90-ad1f-e108fb2f86e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TBD ESD9B3"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0a36a727-633a-449d-a338-8cc0c4a4f8d1")
 			(effects
 				(font
 					(size 1 1)
@@ -14124,7 +13643,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -14137,20 +13656,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "37acbd32-49a8-4ca8-9c46-56ceaacd4fd2")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14364,7 +13870,7 @@
 				)
 			)
 		)
-		(property "MPN" "TBD"
+		(property "MPN" "RC0402JR-070RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -14377,20 +13883,7 @@
 				)
 			)
 		)
-		(property "OEPS" "TBD"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "d3c87784-4646-41ab-86b7-8911ff6843a2")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020001"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14591,7 +14084,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -14604,20 +14097,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "cf93c7f3-4f30-4f07-8d1b-a2657924cdf6")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15129,6 +14609,19 @@
 				)
 			)
 		)
+		(property "MPN" "TBD Mouser 12401610E4#2A "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5ce6b81-5c37-4568-9758-c14a7d24769e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/f21811f1-6a42-451d-b349-ddeee8ce58ed")
 		(sheetname "/")
@@ -15621,20 +15114,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010018"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "d81a68b9-f14a-4e6a-8855-63ab52cf6029")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010018"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15848,7 +15328,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -15861,20 +15341,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "f5abdd21-7d02-40b3-95ae-e3faccb98daf")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16101,20 +15568,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010018"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "eb54d65e-73b2-4850-9673-80dee22616f0")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010018"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16330,19 +15784,6 @@
 				)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "425cef4c-84c7-4aff-b68f-e75a308fda86")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 0 0 0)
 			(unlocked yes)
@@ -16356,20 +15797,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "99cb8e1d-980b-4d80-af39-704cd20937e7")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16771,7 +16199,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -16784,20 +16212,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "aa00ae80-858a-4299-945a-d858556ed99f")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17013,19 +16428,6 @@
 				)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "85147db8-ce86-4619-a6fb-8148ae4b1e12")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 0 0 180)
 			(unlocked yes)
@@ -17039,20 +16441,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "0b9c076d-72c5-40bd-b31e-d4763c83fb9d")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17301,7 +16690,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -17314,20 +16703,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "31d93483-fe3b-4b09-a6ba-c5384bb13885")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17554,20 +16930,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010018"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "a6ba1f5b-9c0c-4d32-8044-3a03eb0124cf")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010018"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17794,20 +17157,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS030005"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "4376a12a-889f-4d6e-91c5-8fd4f0940a2a")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS030005"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18049,7 +17399,7 @@
 		(path "/028c691a-8325-4757-adb7-0d190022b2ed/a975d56f-1c21-447f-9da4-4a2b09ef7062")
 		(sheetname "/core stage/")
 		(sheetfile "core stage.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -18139,19 +17489,6 @@
 				)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "a2d9d9ea-35a8-426f-bdae-76af4c514fce")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 0 0 270)
 			(unlocked yes)
@@ -18165,20 +17502,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "be61bfd8-706d-4abb-bfd9-85fd56e51829")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18580,7 +17904,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -18593,20 +17917,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "70eb2fbc-a284-4672-b6ff-de544ea0d297")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18820,7 +18131,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -18833,20 +18144,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "15b4860a-8a25-4403-91de-bc21fb51dedc")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19047,7 +18345,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19060,20 +18358,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3900e0e4-6977-4ec2-b2f8-f7f51868126c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19288,20 +18573,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080016"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "a473185d-88f9-42d9-8b55-01a457dd3294")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080016"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19685,20 +18957,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS070035"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "8d6a88f7-c1ab-44c7-a5c6-52301d8703a0")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070035"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19879,7 +19138,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19892,20 +19151,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4cbea4c0-0836-4499-8f7e-90b63f9d9394")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20269,7 +19515,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -20282,20 +19528,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "44d4b969-91d1-4362-83f1-55e541da2989")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20509,20 +19742,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010011"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "29e308f1-e64f-4e1e-9b9b-925c1ba4390a")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010011"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20736,7 +19956,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -20749,20 +19969,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "7d3674eb-e1ef-4439-9830-dd0e257e5a1d")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20963,7 +20170,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -20976,20 +20183,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "0969e586-9fcc-4271-a6ee-934e31c2cd0d")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21203,7 +20397,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -21216,20 +20410,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "c66d32ac-2e77-4749-af51-b329b9711e75")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21443,20 +20624,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010011"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "82c5755c-c75a-4eef-a88a-72162f4b3e6c")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010011"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21670,7 +20838,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -21683,20 +20851,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "f1447f1f-3fdd-4a76-8050-f74b236579b5")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21897,7 +21052,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -21910,20 +21065,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "51a63c2c-c6f6-45b0-a059-4f52bdd0e0a9")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22139,19 +21281,6 @@
 				)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "7f2c3987-2aab-40b3-9d3c-c0749b3e6757")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 0 0 180)
 			(unlocked yes)
@@ -22165,20 +21294,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "cd47a5f9-4d76-458c-8e63-231bb5cc6489")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22427,7 +21543,7 @@
 				)
 			)
 		)
-		(property "MPN" "TBD"
+		(property "MPN" "ERJ-2RKF1001X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -22440,20 +21556,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS??"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "0b063303-f0c6-46b4-b610-18f8a96e9eef")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020006"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22667,20 +21770,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS020037"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "318d523b-eacd-4975-a624-24d785478d61")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020037"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22883,7 +21973,7 @@
 				)
 			)
 		)
-		(property "MPN" "PJ-316A-6A"
+		(property "MPN" "TBD AliExpress? PJ-316A-6A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -23340,20 +22430,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS070041"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "46d6e68b-cc14-4356-9d5b-48e1703338ce")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070041"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23559,7 +22636,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -23572,20 +22649,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "9c8c1c70-fcac-4a7b-a1be-b5cf5ca1bd24")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23801,19 +22865,6 @@
 				)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "88ea527d-46dc-455e-ad17-4565aff63062")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 0 0 0)
 			(unlocked yes)
@@ -23827,20 +22878,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "aa409d7b-b90e-4393-a01b-7bf3e1de266f")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24089,7 +23127,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -24102,20 +23140,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "a07a875a-7e57-47e1-a0d2-e60a148b9681")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24329,7 +23354,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -24342,20 +23367,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "dc736dde-d60c-472e-b2ef-d656469feee7")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24571,19 +23583,6 @@
 				)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "06bf2fa9-9760-4b39-8bbc-cbd49eddfb9e")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 0 0 0)
 			(unlocked yes)
@@ -24597,20 +23596,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "00188665-09df-40ea-b3cf-085197c27ee8")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24859,7 +23845,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24872,20 +23858,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "da454288-e2f5-4efc-82c1-ec08723663ac")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25087,7 +24060,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -25100,20 +24073,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "f78096ac-9c98-4756-987d-f2719c9eaeba")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25316,19 +24276,6 @@
 				)
 			)
 		)
-		(property "DIGIKEY_PN" "M74VHC1GT126DT1GOSDKR-ND"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "53619197-2c7b-49cc-8267-1e8ef822b3a1")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
 		(property "MPN" "M74VHC1GT126DT1G"
 			(at 0 0 0)
 			(unlocked yes)
@@ -25342,20 +24289,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS080017"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "a0c4ccac-3d79-41a1-b055-9168e67ab2a5")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080017"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25621,20 +24555,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS070041"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "7c34d9ef-7fa6-4dc3-8160-aba0d39de628")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070041"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25840,7 +24761,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -25853,20 +24774,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "50bd3e3e-e477-4af4-831f-3b738bfe7926")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26080,7 +24988,7 @@
 				)
 			)
 		)
-		(property "MPN" "tbd"
+		(property "MPN" "ERJ-2RKF1003X"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26093,20 +25001,7 @@
 				)
 			)
 		)
-		(property "OEPS" "tbd"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4f558f85-3642-41d4-bb38-d21285a75c45")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020019"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26479,7 +25374,7 @@
 		(path "/028c691a-8325-4757-adb7-0d190022b2ed/7874acdb-643f-45e2-93c0-2d00ca93b985")
 		(sheetname "/core stage/")
 		(sheetfile "core stage.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -26720,7 +25615,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -26733,20 +25628,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "aa16d83f-27bd-4e4f-af9b-4304871b09c5")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26963,20 +25845,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS070037"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "b82b4013-ae51-4aaa-a268-f6d8222de7df")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070037"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27225,20 +26094,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS040003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "6009ff8b-8a36-48ad-a03c-7fc10c0d6b2a")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS040003"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27459,7 +26315,7 @@
 		(path "/b5d974c8-3ee4-4763-8906-f592d3cfc61e")
 		(sheetname "/")
 		(sheetfile "FastStepper.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -27564,20 +26420,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS070041"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "153ed114-7d68-485a-9ac3-3e1476fca5db")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070041"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27797,20 +26640,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010018"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9241e741-f900-44d1-a2fb-16d532f94056")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010018"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28030,6 +26860,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b449b3c6-43c7-457a-9f64-9a73c89c763e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TBD AO3401A"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "57004eab-02f9-4e1d-bdd6-9286ee154a1d")
 			(effects
 				(font
 					(size 1 1)
@@ -28279,7 +27122,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -28292,20 +27135,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "fda3b1ed-abd8-4e45-adbd-9e315bdba3a7")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28526,7 +27356,7 @@
 		(path "/028c691a-8325-4757-adb7-0d190022b2ed/86436bba-cb4f-462a-b593-d9cd8a585848")
 		(sheetname "/core stage/")
 		(sheetfile "core stage.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -28638,20 +27468,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS010011"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "1d0a17bc-ee88-4977-906c-722dd7a0a6a7")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010011"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28865,7 +27682,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -28878,20 +27695,7 @@
 				)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "c5e6aa0c-f879-4a68-b834-2b8c44be225d")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29124,7 +27928,7 @@
 		(path "/028c691a-8325-4757-adb7-0d190022b2ed/ba4876fd-65a4-4962-9e32-5d1aed4ee907")
 		(sheetname "/core stage/")
 		(sheetfile "core stage.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -29241,21 +28045,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPS" "OEPS020048"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "df68dd8d-2b0b-4be8-8f50-b18eb1a6c5d4")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-				(justify mirror)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020048"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29461,7 +28251,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.SilkS")
@@ -29475,21 +28265,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.SilkS")
-			(hide yes)
-			(uuid "32233c13-8c64-49e9-8299-19d5c59b9973")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-				(justify mirror)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29714,6 +28490,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "700cac52-36a3-48e6-889f-cc6d2aefe436")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "TBD PESD5V0L2BT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7bbf6061-e9a2-4147-8a47-0525cc62add0")
 			(effects
 				(font
 					(size 1 1)
@@ -30062,21 +28852,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPS" "OEPS020026"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.SilkS")
-			(hide yes)
-			(uuid "81e759ad-c7dc-43d2-a523-91674e16e2ac")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-				(justify mirror)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020026"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -30282,7 +29058,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -30296,21 +29072,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "8852505b-7d7c-4d5b-b329-4af886b3f20a")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-				(justify mirror)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -30530,21 +29292,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPS" "DNI"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "d7840dfd-7971-4ff8-83be-5e2203a23ec5")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-				(justify mirror)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "n.a."
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -30775,7 +29523,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -30789,21 +29537,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "0378494d-c850-4cb9-b256-80da1de73085")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-				(justify mirror)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -31022,26 +29756,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "CGA2B3X7R1V153K050BB"
+		(property "MPN" "TBD 15nF 5%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "e9305af8-7fc6-47aa-b1ab-08636c52925a")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-				(justify mirror)
-			)
-		)
-		(property "OEPS" "OEPS010023"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "6c6489dd-222b-44f4-925f-97d69292b316")
 			(effects
 				(font
 					(size 0.6604 0.6604)
@@ -31269,7 +29989,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -31283,21 +30003,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "170c7157-4bb3-4258-80d9-dbfbee04d4ed")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-				(justify mirror)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -31509,6 +30215,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "8783b017-5bb8-40c4-bb40-a2dccc56c3fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "TBD PESD5V0L2BT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a3a59c02-91e3-4c4e-8c19-428408ca9149")
 			(effects
 				(font
 					(size 1 1)
@@ -31857,21 +30577,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPS" "OEPS080038"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "b9f73def-6b04-42cf-9080-be18ad51b45a")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-				(justify mirror)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080038"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -32257,21 +30963,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPS" "DNI"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "676e94c3-397a-449a-99bb-3b63c2d59c2f")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-				(justify mirror)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "n.a."
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -32491,21 +31183,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPS" "OEPS020015"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "b411e673-f430-4929-843c-7c29d37e8fd8")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-				(justify mirror)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020015"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -32711,26 +31389,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "CGA2B3X7R1V153K050BB"
+		(property "MPN" "TBD 15nF 5%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "be8eec68-b369-4558-990a-a38cb914c32d")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-				(justify mirror)
-			)
-		)
-		(property "OEPS" "OEPS010023"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "9eef76bc-a1e9-4b62-8533-0abd063d9095")
 			(effects
 				(font
 					(size 0.6604 0.6604)
@@ -32964,6 +31628,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7d4bdac6-ba5d-4ea7-ab60-b9ff40bcdc44")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "TBD PESD5V0L2BT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a13b78df-09ba-43f2-af1d-5afc5f3724e6")
 			(effects
 				(font
 					(size 1 1)
@@ -33298,7 +31976,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C1005X7R1H104K050BB"
+		(property "MPN" "CGA2B3X7R1H104K050BB"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -33312,21 +31990,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPS" "OEPS010004"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "b398df9a-3e49-4a9b-b5a4-04376bff90a3")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-				(justify mirror)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010016"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33545,7 +32209,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "CRCW040210K0FKED"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -33559,21 +32223,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPS" "OEPS020030"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "1638e74c-f90e-4628-bec0-351204c1e3d5")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-				(justify mirror)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS020013"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33793,21 +32443,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPS" "DNI"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "8865adb4-ae92-4c9c-ba91-cb0cdef9fd1e")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-				(justify mirror)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "n.a."
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34027,21 +32663,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPS" "OEPS010001"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.SilkS")
-			(hide yes)
-			(uuid "02a7daab-6b57-476c-9cd8-eec098ead4b2")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-				(justify mirror)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010017"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34274,21 +32896,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPS" "DNI"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "3158e003-85c4-43d3-af0f-07460eccc732")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-				(justify mirror)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "n.a."
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34508,21 +33116,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPS" "OEPS040003"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "ae999c52-b858-43e2-8547-61b29f5f92ae")
-			(effects
-				(font
-					(size 0.6604 0.6604)
-					(thickness 0.1651)
-				)
-				(justify mirror)
-			)
-		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS040003"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
