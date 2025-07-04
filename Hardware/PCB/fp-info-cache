@@ -1,4 +1,4 @@
-25712539615046123
+25714291602890776
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59429,6 +59429,13 @@ FIL_DLW21HN900SQ2L
 0
 4
 4
+FastStepper PCBLib
+Jack_3.5mm_PJ316A_Horizontal
+PJ311 6pin SMD 3.5mm stereo headphones jack.
+headphones jack plug stereo 3.5mm PJ311
+0
+6
+6
 FastStepper PCBLib
 OSCILLATOR_3.2X2.5
 

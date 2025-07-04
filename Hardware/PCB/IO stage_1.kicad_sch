@@ -5572,7 +5572,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "15nF 5%"
+		(property "Value" "15nF"
 			(at 132.08 187.325 0)
 			(effects
 				(font
@@ -5608,7 +5608,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TBD 15nF 5%"
+		(property "MPN" "CGA2B3X7R1V153K050BB"
 			(at 128.27 185.42 0)
 			(effects
 				(font
@@ -5618,7 +5618,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010023"
 			(at 128.27 185.42 0)
 			(effects
 				(font
@@ -9752,7 +9752,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "15nF 5%"
+		(property "Value" "15nF"
 			(at 147.32 187.325 0)
 			(effects
 				(font
@@ -9788,7 +9788,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TBD 15nF 5%"
+		(property "MPN" "CGA2B3X7R1V153K050BB"
 			(at 143.51 185.42 0)
 			(effects
 				(font
@@ -9798,7 +9798,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS010023"
 			(at 143.51 185.42 0)
 			(effects
 				(font

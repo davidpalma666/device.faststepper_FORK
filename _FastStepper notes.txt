@@ -36,6 +36,12 @@ https://www.wandkey.com/usb-c-pinout-guide-and-features/
 
 
 >> qual é o MPN do jack??
+		PJ-316A-6A
+		3.5mm headphone jack 235? 30V 500mA SMD Audio Connector
+		https://lcsc.com/product-detail/Audio-Connectors_Korean-Hroparts-Elec-PJ-316A-6A_C128987.html
+		
+		
+		
 
 >> tá lá ficha USB C - qual o pinout a utilizar?
 	MPN do q está no projecto Altium

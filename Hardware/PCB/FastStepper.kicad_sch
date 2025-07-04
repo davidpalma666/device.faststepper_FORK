@@ -2167,54 +2167,6 @@
 				)
 			)
 			(symbol "FT232RL_1_0"
-				(polyline
-					(pts
-						(xy -10.16 25.4) (xy 12.7 25.4)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -10.16 -27.94) (xy -10.16 25.4)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 25.4) (xy 12.7 -27.94)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 -27.94) (xy -10.16 -27.94)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
 				(pin power_in line
 					(at -12.7 22.86 0)
 					(length 2.54)
@@ -2685,27 +2637,20 @@
 				)
 			)
 			(symbol "FT232RL_1_1"
-				(pin no_connect line
-					(at -5.08 -21.59 0)
-					(length 2.54)
-					(hide yes)
-					(name "n.c"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
+				(rectangle
+					(start -10.16 25.4)
+					(end 12.7 -27.94)
+					(stroke
+						(width 0)
+						(type solid)
 					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
+					(fill
+						(type color)
+						(color 255 255 194 1)
 					)
 				)
 				(pin no_connect line
-					(at -5.08 -24.13 0)
+					(at -5.08 -27.94 0)
 					(length 2.54)
 					(hide yes)
 					(name "n.c"
@@ -2716,6 +2661,25 @@
 						)
 					)
 					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at -5.08 -27.94 0)
+					(length 2.54)
+					(hide yes)
+					(name "n.c"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3048,54 +3012,6 @@
 				)
 			)
 			(symbol "TLV700XX_1_0"
-				(polyline
-					(pts
-						(xy -7.62 7.62) (xy -7.62 -7.62)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -7.62 -7.62) (xy 7.62 -7.62)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 7.62) (xy -7.62 7.62)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -7.62) (xy 7.62 7.62)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
 				(pin bidirectional line
 					(at -12.7 5.08 0)
 					(length 5.08)
@@ -3184,6 +3100,20 @@
 								(size 0 0)
 							)
 						)
+					)
+				)
+			)
+			(symbol "TLV700XX_1_1"
+				(rectangle
+					(start -7.62 7.62)
+					(end 7.62 -7.62)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 255 255 194 1)
 					)
 				)
 			)
@@ -5633,8 +5563,8 @@
 		(uuid "f97d5ef0-e589-4ad3-ba72-ec908ed00b84")
 	)
 	(image
-		(at -233.68 -40.132)
-		(scale 0.230266)
+		(at 51.3472 37.6367)
+		(scale 0.109366)
 		(uuid "f04f9086-5075-48f3-99f8-a7bbd7774504")
 		(data "iVBORw0KGgoAAAANSUhEUgAAA7cAAAHkCAIAAABqg08kAAAAA3NCSVQICAjb4U/gAAAACXBIWXMA"
 			"AA50AAAOdAFrJLPWAAAgAElEQVR4nOzd2XMcR54n+J973HnfyMR9AwTAE7wkUqpSS9VXTc3LHGs2"
@@ -8746,7 +8676,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS030040"
 			(at 69.85 101.6 0)
 			(effects
 				(font
@@ -8755,7 +8685,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TBD PESD5V0L2BT"
+		(property "MPN" "PESD5V0L2BT,215"
 			(at 69.85 101.6 0)
 			(effects
 				(font
@@ -9799,7 +9729,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS080171"
 			(at 148.59 137.16 0)
 			(effects
 				(font
@@ -9808,7 +9738,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TBD THVD1450D"
+		(property "MPN" "THVD1450D"
 			(at 148.59 137.16 0)
 			(effects
 				(font
@@ -9907,7 +9837,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS040030"
 			(at 87.63 92.71 0)
 			(effects
 				(font
@@ -9916,7 +9846,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TBD DLW21HN900SQ2L"
+		(property "MPN" "DLW21HN900SQ2L"
 			(at 87.63 92.71 0)
 			(effects
 				(font
@@ -10998,7 +10928,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS040030"
 			(at 87.63 115.57 0)
 			(effects
 				(font
@@ -11007,7 +10937,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TBD DLW21HN900SQ2L"
+		(property "MPN" "DLW21HN900SQ2L"
 			(at 87.63 115.57 0)
 			(effects
 				(font
@@ -11181,7 +11111,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070127"
 			(at 80.01 175.26 90)
 			(effects
 				(font
@@ -11334,7 +11264,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS030040"
 			(at 69.85 124.46 0)
 			(effects
 				(font
@@ -11343,7 +11273,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TBD PESD5V0L2BT"
+		(property "MPN" "PESD5V0L2BT,215"
 			(at 69.85 124.46 0)
 			(effects
 				(font
@@ -13398,7 +13328,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070127"
 			(at 96.52 175.26 90)
 			(effects
 				(font
@@ -13650,7 +13580,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS030040"
 			(at 69.85 82.55 0)
 			(effects
 				(font
@@ -13659,7 +13589,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TBD PESD5V0L2BT"
+		(property "MPN" "PESD5V0L2BT,215"
 			(at 69.85 82.55 0)
 			(effects
 				(font
@@ -13739,7 +13669,7 @@
 				(hide yes)
 			)
 		)
-		(property "OEPSPN" ""
+		(property "OEPSPN" "OEPS070128"
 			(at 39.37 100.33 0)
 			(effects
 				(font
@@ -13748,7 +13678,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TBD Mouser 12401610E4#2A "
+		(property "MPN" "12401610E4#2A"
 			(at 39.37 100.33 0)
 			(effects
 				(font

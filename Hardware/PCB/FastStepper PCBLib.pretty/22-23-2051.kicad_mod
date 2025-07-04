@@ -175,4 +175,15 @@
 		(uuid "4072d92a-d032-4549-ba53-f886b6884920")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/FastStepper PCBLib.pretty/282834-5.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

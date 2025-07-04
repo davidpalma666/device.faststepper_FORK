@@ -2138,54 +2138,6 @@
 			)
 		)
 		(symbol "FT232RL_1_0"
-			(polyline
-				(pts
-					(xy -10.16 25.4) (xy 12.7 25.4)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy -10.16 -27.94) (xy -10.16 25.4)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 12.7 25.4) (xy 12.7 -27.94)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 12.7 -27.94) (xy -10.16 -27.94)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(pin power_in line
 				(at -12.7 22.86 0)
 				(length 2.54)
@@ -2656,27 +2608,20 @@
 			)
 		)
 		(symbol "FT232RL_1_1"
-			(pin no_connect line
-				(at -5.08 -21.59 0)
-				(length 2.54)
-				(hide yes)
-				(name "n.c"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
+			(rectangle
+				(start -10.16 25.4)
+				(end 12.7 -27.94)
+				(stroke
+					(width 0)
+					(type solid)
 				)
-				(number "8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
+				(fill
+					(type color)
+					(color 255 255 194 1)
 				)
 			)
 			(pin no_connect line
-				(at -5.08 -24.13 0)
+				(at -5.08 -27.94 0)
 				(length 2.54)
 				(hide yes)
 				(name "n.c"
@@ -2687,6 +2632,25 @@
 					)
 				)
 				(number "24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at -5.08 -27.94 0)
+				(length 2.54)
+				(hide yes)
+				(name "n.c"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4407,54 +4371,6 @@
 			)
 		)
 		(symbol "TLV700XX_1_0"
-			(polyline
-				(pts
-					(xy -7.62 7.62) (xy -7.62 -7.62)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy -7.62 -7.62) (xy 7.62 -7.62)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 7.62 7.62) (xy -7.62 7.62)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 7.62 -7.62) (xy 7.62 7.62)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(pin bidirectional line
 				(at -12.7 5.08 0)
 				(length 5.08)
@@ -4543,6 +4459,20 @@
 							(size 0 0)
 						)
 					)
+				)
+			)
+		)
+		(symbol "TLV700XX_1_1"
+			(rectangle
+				(start -7.62 7.62)
+				(end 7.62 -7.62)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type color)
+					(color 255 255 194 1)
 				)
 			)
 		)
@@ -5527,54 +5457,6 @@
 			)
 		)
 		(symbol "XMEGA-A4_AT-XMEGA-XXA4-AUTQFP44_1_0"
-			(polyline
-				(pts
-					(xy -25.4 43.18) (xy 25.4 43.18)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy -25.4 -43.18) (xy -25.4 43.18)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 25.4 43.18) (xy 25.4 -43.18)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 25.4 -43.18) (xy -25.4 -43.18)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(pin input line
 				(at -30.48 40.64 0)
 				(length 5.08)
@@ -6365,6 +6247,20 @@
 							(size 1.524 1.524)
 						)
 					)
+				)
+			)
+		)
+		(symbol "XMEGA-A4_AT-XMEGA-XXA4-AUTQFP44_1_1"
+			(rectangle
+				(start -25.4 43.18)
+				(end 25.4 -40.64)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type color)
+					(color 255 255 194 1)
 				)
 			)
 		)
