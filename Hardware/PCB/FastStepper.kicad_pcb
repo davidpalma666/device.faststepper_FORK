@@ -2670,7 +2670,7 @@
 				)
 			)
 		)
-		(property "MPN" "TBD 8734"
+		(property "MPN" "8734"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8617,7 +8617,7 @@
 				)
 			)
 		)
-		(property "MPN" "TBD 8734"
+		(property "MPN" "8734"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9948,7 +9948,7 @@
 				)
 			)
 		)
-		(property "MPN" "LCSC Electronics PJ-316A-6A"
+		(property "MPN" "PJ-316A-6A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11341,7 +11341,7 @@
 				)
 			)
 		)
-		(property "MPN" "FT232RL"
+		(property "MPN" "FT232RNL-REEL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -22372,7 +22372,7 @@
 				)
 			)
 		)
-		(property "MPN" "LCSC Electronics PJ-316A-6A"
+		(property "MPN" "PJ-316A-6A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33445,7 +33445,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "CC0402KRX7R8BB472"
+		(property "MPN" "885012205084"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.SilkS")

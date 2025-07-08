@@ -3710,7 +3710,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "LCSC Electronics PJ-316A-6A"
+		(property "MPN" "PJ-316A-6A"
 			(at 44.45 109.22 0)
 			(effects
 				(font
@@ -3962,7 +3962,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "LCSC Electronics PJ-316A-6A"
+		(property "MPN" "PJ-316A-6A"
 			(at 246.38 109.22 0)
 			(effects
 				(font

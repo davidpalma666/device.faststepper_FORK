@@ -10110,7 +10110,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0402KRX7R8BB472"
+		(property "MPN" "885012205084"
 			(at 29.21 148.59 0)
 			(effects
 				(font
@@ -11120,7 +11120,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TBD 8734"
+		(property "MPN" "8734"
 			(at 80.01 175.26 90)
 			(effects
 				(font
@@ -13337,7 +13337,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TBD 8734"
+		(property "MPN" "8734"
 			(at 96.52 175.26 90)
 			(effects
 				(font
@@ -13411,7 +13411,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "FT232RL"
+		(property "MPN" "FT232RNL-REEL"
 			(at 166.37 67.31 0)
 			(effects
 				(font
