@@ -7,3 +7,5 @@ obj
 Debug
 packages
 *.componentinfo.xml
+/Hardware/_auxss/VestibularH2 Kicad/VestibularH2/VestibularH2-backups
+/Hardware/PCB/FastStepper-backups
