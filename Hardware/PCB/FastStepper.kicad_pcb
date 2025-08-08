@@ -1353,7 +1353,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "conn 1x2"
+		(property "Value" "conn 1x3"
 			(at -3.81 5.08 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1391,7 +1391,7 @@
 				)
 			)
 		)
-		(property "MPN" "282834-2"
+		(property "MPN" "282834-3"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -1404,7 +1404,7 @@
 				)
 			)
 		)
-		(property "OEPSPN" "OEPS070020"
+		(property "OEPSPN" "OEPS070035"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2777,7 +2777,7 @@
 		(path "/e4d480e0-119d-467d-9dd4-b996bb1a8df1")
 		(sheetname "/")
 		(sheetfile "FastStepper.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start -0.602448 3.197802)
 			(end 0.397552 2.197802)
@@ -8931,7 +8931,7 @@
 		(path "/79d2b0c6-3c2c-4b67-af46-e3a6f8420ab9")
 		(sheetname "/")
 		(sheetfile "FastStepper.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start -0.4 3.4)
 			(end 0.6 2.4)
@@ -27064,7 +27064,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "WEIDMUELLER CLAMP CONNECTOR"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -34985,7 +34985,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "FastStepper v.1.0"
+	(gr_text "FastStepper v.1.1"
 		(at 143.8 145.3 0)
 		(layer "F.SilkS")
 		(uuid "333a05e4-cb0b-4137-9685-4853a8fd74a3")

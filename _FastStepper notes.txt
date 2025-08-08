@@ -6,7 +6,55 @@ https://www.wandkey.com/usb-c-pinout-guide-and-features/
 
 
 
+*************************************************
+*	@8 Agosto 2025
 
+- erros na v.1.0
+	. fich USB-C; pinos B10 & B11 com rails de clock errados
+		- B10 = CLCK_N
+		- B11 = CLCK_P			OK
+	. Rs de PDown nos rails USB CC1 & CC2
+	. rail de VClck deixa de existir: VClck = +3V3
+
+
+
+
+
+*************************************************
+*	@6 Agosto 2025
+
+- projecto fw FastStepper.atsln compila mas não funciona
+- projecto fw VestibularH2.atsln compila e funciona
+	para teste:
+		Bonsai: \Assests\VestibularVrH2_tests.bonsai
+
+
+*************************************************
+*	@4 Agosto 2025
+
+>> PINOS USB CC1 & CC2 MAL LIGADOS!!!!!
+	>>TÊM DE SER COM PDOWN ~5K; ESTÃO NO AR
+
+
+
+>> dúvidas para mais testes...
+	- herança a partir do projecto Vestibular VrH2 v1.1
+	- motor stepper externo: NEMA23	 (??certo??)
+		
+	- motor sem own-driver; a board tb não faz driver (sem Iout alta)
+
+
+*************************************************
+*	@25 Julho 2025
+
+> comentários do Ricardo enquanto assembling:
+	conn X3:
+		. 3 pads mas são 2; PN errada(?)
+		. ; é para assembling??
+	
+	
+	
+	
 
 
 

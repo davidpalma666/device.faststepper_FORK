@@ -1,0 +1,12 @@
+
+
+
+
+*************************************************
+*	@25 Julho 2025
+> comentários do Ricardo enquanto assembling:
+	conn X3:
+		. 3 pads mas são 2; PN errada(?)
+		. ; é para assembling??
+	
+	
