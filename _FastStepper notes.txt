@@ -7,6 +7,22 @@ https://www.wandkey.com/usb-c-pinout-guide-and-features/
 
 
 *************************************************
+*	@26 Agosto 2025
+
+>> FastStepper
+		. em espera de nova board com microUSB corrigido
+
+		Filipe @15 Agosto
+			. David's fork for future reference: https://github.com/davidpalma666/device.faststepper_FORK
+			.A PCB ja está em produção! Fica aqui a nota que fica a faltar a BOM.		!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+			. Ficheiros produzidos: https://github.com/harp-tech/device.faststepper/tree/b39326d0b987731fd0d6c8d6e952e8dfe8ec6d94
+
+
+
+
+
+
+*************************************************
 *	@8 Agosto 2025
 
 - erros na v.1.0
